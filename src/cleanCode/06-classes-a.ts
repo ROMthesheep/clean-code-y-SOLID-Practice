@@ -2,7 +2,7 @@
 
   // No aplicando el principio de responsabilidad única
 
-  type Gender = 'M'|'F';
+  type Gender = 'M'|'F'|'NB';
 
   class Person {
       constructor(
